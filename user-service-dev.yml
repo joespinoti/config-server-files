@@ -13,5 +13,5 @@ spring:
       database: mitocode
       #username:
       #password:
-      uri: mongodb://mitocode:mitocode@localhost:27017
+      uri: mongodb://mitocode:mitocode@localhost:27018
       authentication-database: admin
